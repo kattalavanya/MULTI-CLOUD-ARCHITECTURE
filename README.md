@@ -15,3 +15,4 @@ i completed this task  called multi cloud architecture,by creating accounts in b
 this task is very helpful to all of us,we can learn so much from this.
 screenshorts of the task:
 ![Image](https://github.com/user-attachments/assets/8b1d2b60-757d-41e9-a5c7-ba851d13942e)
+![Image](https://github.com/user-attachments/assets/82ced1b8-2ddd-48f3-abf7-a1e872f7271f)
